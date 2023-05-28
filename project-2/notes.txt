@@ -1,0 +1,15 @@
+Model :- (M)
+
+-> Responsible for representing your data
+-> Responsible for managing your data (eg:- saving, fetching...)
+-> Contains data-related logic
+
+
+View :- (V)
+
+-> What the user sees
+
+
+Controller :- (C)
+
+-> Connects Model and View
